@@ -12,6 +12,8 @@ The runnable code is hosted on Earth Engine and under maintenance with [this lin
 
 2. Open a new GEE [code editor](code.earthengine.google.com) in the web browser and copy all the content of [gee_code_for_ACM2016.js](gee_code_for_ACM2016.js) to the code area, then click the **Run** button to run it.
 
+You need to read the head of the code to understand how to set time and spatial extent of the mapping algorithm.
+
 To be able to run this code, a Google Earth Engine account is required. If you don't have it, you can go to [sign up](https://earthengine.google.com/signup/) to create one.
 
 Unless otherwise noted, the Javascript code is orginal and any errors or ommissions should be attribued to me and not the aforemention authors.
