@@ -6,9 +6,13 @@ Google Earth Engine, based on millions of servers around the world and the start
 
 # How to use, test and report bugs of ACM2016
 
-The runnable code is hosted on Earth Engine and under maintenance with [this link](https://code.earthengine.google.com/ce07c366433e44f4bc76def1b9efdbf3)
+The runnable code is hosted on Earth Engine and under maintenance with [this link](https://code.earthengine.google.com/ce07c366433e44f4bc76def1b9efdbf3). You can either run this code in following ways:
 
-To open and run this code a Google Earth Engine account is required. If you don't have it, you can go to [sign up](https://earthengine.google.com/signup/) to create one.
+1. Click on the [ACM2016 link](https://code.earthengine.google.com/ce07c366433e44f4bc76def1b9efdbf3) directly and open it in the GEE code editor;
+
+2. Open a new GEE [code editor](code.earthengine.google.com) in the web browser and copy all the content of [gee_code_for_ACM2016.js](gee_code_for_ACM2016.js) to the code area, then click the **Run** button to run it.
+
+To be able to run this code, a Google Earth Engine account is required. If you don't have it, you can go to [sign up](https://earthengine.google.com/signup/) to create one.
 
 Unless otherwise noted, the Javascript code is orginal and any errors or ommissions should be attribued to me and not the aforemention authors.
 
